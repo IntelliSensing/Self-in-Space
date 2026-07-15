@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and local configuration
+.venv/
+.venv-*/
+.env
+.env.*
+
+# Shared data is published separately on Hugging Face
+data/**
+!data/.gitkeep
+
+# Model artifacts and experiment output
+/model/
+**/output/
+**/outputs/
+**/results/
+**/results_ex/
+**/swanlog/
+**/logs/
+**/checkpoints/
+**/merged_models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Native extension builds
+**/build/
+**/dist/
+*.egg
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store

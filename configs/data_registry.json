@@ -1,0 +1,26 @@
+{
+  "huggingface": {
+    "repositories": {
+      "sis_bench": "choucsan/SIS-Bench",
+      "sis_motion_54k": "choucsan/SIS-Motion-54K",
+      "openuav_qa": "choucsan/OpenUAV-QA"
+    },
+    "revision": "main"
+  },
+  "bench": {
+    "sis_bench": {
+      "annotation": "SIS-Bench/SIS-Bench.jsonl",
+      "media": "SIS-Bench/video"
+    },
+    "openuav_qa": {
+      "annotation": "OpenUAV-QA/TravelUAV_test.jsonl",
+      "media": "OpenUAV-QA/TravelUAV_dataset"
+    }
+  },
+  "train": {
+    "sis_motion_54k": {
+      "annotation": "SIS-Motion-54K/SIS-Motion-54K.jsonl",
+      "media": "SIS-Motion-54K"
+    }
+  }
+}
