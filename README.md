@@ -35,7 +35,8 @@
 
 
 ## 📢 News
-* 🎉 [2026/7/16] Our open-source models and datasets have accumulated over 500K downloads.
+* 🎉 [2026/7/17] Our open-source models and datasets have accumulated over 1 million downloads.
+* 🎉 [2026/7/16] Our open-source models and datasets have accumulated over 500k downloads.
 * 🔥 [2026/7/14] Our [paper](https://arxiv.org/abs/2607.12477) is available on arXiv.
 * 😊 [2026/7/13] We release our benchmarking dataset [SIS-Bench](https://huggingface.co/datasets/choucsan/SIS-Bench) on Hugging Face and [ModelScope](https://www.modelscope.cn/datasets/choucisan/SIS-Bench).
 * 😊 [2026/7/13] We release our training dataset [SIS-Motion-54K](https://huggingface.co/datasets/choucsan/SIS-Motion-54K) on Hugging Face and [ModelScope](https://www.modelscope.cn/datasets/choucisan/SIS-Motion-54K-Dataset).
