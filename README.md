@@ -35,11 +35,12 @@
 
 
 ## 📢 News
+* 🎉 [2026/7/16] Our open-source models and datasets have accumulated over 500K downloads.
 * 🔥 [2026/7/14] Our [paper](https://arxiv.org/abs/2607.12477) is available on arXiv.
-* 😊 [2026/7/13] We release our benchmarking dataset [SIS-Bench](https://huggingface.co/datasets/choucsan/SIS-Bench) on Hugging Face.
-* 😊 [2026/7/13] We release our training dataset [SIS-Motion-54K](https://huggingface.co/datasets/choucsan/SIS-Motion-54K) on Hugging Face.
-* 😊 [2026/7/13] We release our downstream task dataset [OpenUAV-QA](https://huggingface.co/datasets/choucsan/OpenUAV-QA) on Hugging Face.
-* 😊 [2026/7/13] We release our model [SIS-Motion](https://huggingface.co/choucsan/SIS-Motion) on Hugging Face.
+* 😊 [2026/7/13] We release our benchmarking dataset [SIS-Bench](https://huggingface.co/datasets/choucsan/SIS-Bench) on Hugging Face and [ModelScope](https://www.modelscope.cn/datasets/choucisan/SIS-Bench).
+* 😊 [2026/7/13] We release our training dataset [SIS-Motion-54K](https://huggingface.co/datasets/choucsan/SIS-Motion-54K) on Hugging Face and [ModelScope](https://www.modelscope.cn/datasets/choucisan/SIS-Motion-54K-Dataset).
+* 😊 [2026/7/13] We release our downstream task dataset [OpenUAV-QA](https://huggingface.co/datasets/choucsan/OpenUAV-QA) on Hugging Face and [ModelScope](https://www.modelscope.cn/datasets/choucisan/OpenUAV-QA).
+* 😊 [2026/7/13] We release our model [SIS-Motion](https://huggingface.co/choucsan/SIS-Motion) on Hugging Face and [ModelScope](https://www.modelscope.cn/models/choucisan/SIS-Motion).
 * 🎉 [2026/7/10] Our paper is accepted by ACM MM 2026!
 
 ## 🌟 Overview
