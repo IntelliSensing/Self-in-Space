@@ -19,11 +19,10 @@
     <br>
     ACM MM 2026
 </p>
-
 <a href="https://arxiv.org/abs/2607.12477"><img src="https://img.shields.io/badge/arXiv-2607.12477-b31b1b?style=for-the-badge&logo=arxiv" alt="arXiv"></a> &nbsp;
 <a href="https://choucisan.github.io/publications/self-in-space"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-Project_Page-blue?style=for-the-badge" alt="Website"></a> &nbsp;
 <a href="https://github.com/IntelliSensing/Self-in-Space"><img src="https://img.shields.io/badge/GitHub-Self--in--Space-181717?style=for-the-badge&logo=github" alt="GitHub"></a> &nbsp;
-<a href="https://huggingface.co/datasets/choucsan/SIS-Bench"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-SIS--Bench-yellow?style=for-the-badge" alt="Hugging Face"></a> &nbsp;
+<a href="https://huggingface.co/collections/choucsan/self-in-space"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Collection-yellow?style=for-the-badge" alt="Hugging Face"></a> &nbsp;
 <a href="https://www.modelscope.cn/collections/choucisan/Self-in-Space"><img src="https://img.shields.io/badge/ModelScope-Collection-5E4AF5?style=for-the-badge&logo=modelscope" alt="ModelScope"></a> &nbsp;
 <a href="https://choosealicense.com/licenses/apache-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge" alt="License"></a>
 
